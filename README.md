@@ -98,3 +98,24 @@ bash InstallNET.sh -c 6.9 -v 64 -a
 ```
 bash InstallNET.sh -dd 'link-to-vhd-image'
 ```
+
+## Advance Example
+```
+# Automatically install using the default mirror
+bash InstallNET.sh -d 8 -v 64 -a
+ 
+# Automatically install using custom mirror
+bash InstallNET.sh -c 6.9 -v 64 -a --mirror 'http://mirror.centos.org/centos'
+ 
+ 
+# In the following example, replace X.X.X.X with its own network parameters.
+# --ip-addr :IP Address
+# --ip-gate :Gateway
+# --ip-mask :Netmask
+ 
+#Use custom mirror and custom Network Parameters
+#bash InstallNET.sh -u 16.04 -v 64 -a --ip-addr x.x.x.x --ip-gate x.x.x.x --ip-mask x.x.x.x --mirror 'http://archive.ubuntu.com/ubuntu'
+ 
+#Use the custom network parameters to install windows
+#bash InstallNET.sh --ip-addr x.x.x.x --ip-gate x.x.x.x --ip-mask x.x.x.x -dd 'link-to-image-vhd'
+ ```
