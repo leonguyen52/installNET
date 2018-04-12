@@ -2,7 +2,6 @@
 
 ## It can reinstall Debian, Ubuntu, CentOS system with network.
 ## Suitable for using by GRUB.
-## Blog: https://moeclub.org
 ## Written By Vicer
 
 export tmpVER=''
