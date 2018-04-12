@@ -1,8 +1,11 @@
 # installNET
 
 This is tool to install Linux OS or Windows on linux server
+
 You take your own risk to use this tools
+
 It's not created by me, just reupload here.
+
 Credit: zhujiwiki, moeclub, hostloc
 
 Instructions:
