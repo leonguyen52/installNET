@@ -12,12 +12,12 @@ Credit: zhujiwiki, moeclub, hostloc
 
 ## 1. Install required tools on:
 
-a. Debian/Ubuntu:
+### a. Debian/Ubuntu:
 ```
 apt-get update
 apt-get install -y xz-utils openssl gawk file
 ```
-b. RedHat/CentOS:
+### b. RedHat/CentOS:
 ```
 yum update
 yum install -y xz openssl gawk file
@@ -28,7 +28,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/leonguyen52/instal
 ```
 ## 3. Install OS via script
 
-a. Linux
+### a. Linux
 
 Debian 7 x32:
 ```
@@ -94,7 +94,7 @@ CentOS 6.9 64:
 ```
 bash InstallNET.sh -c 6.9 -v 64 -a
 ```
-b. Windows (you might need the Windows image to install)
+### b. Windows (you might need the Windows image to install)
 ```
 bash InstallNET.sh -dd 'link-to-vhd-image'
 ```
