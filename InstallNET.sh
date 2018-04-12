@@ -303,7 +303,7 @@ fi
 
 [ -n "$ipAddr" ] && [ -n "$ipMask" ] && [ -n "$ipGate" ] && setNet='1';
 [[ -n "$tmpWORD" ]] && myPASSWORD="$(openssl passwd -1 "$tmpWORD")";
-[[ -z "$myPASSWORD" ]] && myPASSWORD='$1$0shYGfBd$8v189JOozDO1jPqPO645e1';
+[[ -z "$myPASSWORD" ]] && myPASSWORD='$1$ALZ9OtpF$cbxmRE0WjyAYeJVPHDQm9.';
 [[ -n "$tmpFW" ]] && INCFW="$tmpFW";
 [[ -z "$INCFW" ]] && INCFW='0';
 
