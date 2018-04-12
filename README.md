@@ -8,8 +8,9 @@ It's not created by me, just reupload here.
 
 Credit: zhujiwiki, moeclub, hostloc
 
-Instructions:
-1. Install required tools on:
+#Instructions:
+
+##1. Install required tools on:
 
 a. Debian/Ubuntu:
 ```
@@ -21,11 +22,11 @@ b. RedHat/CentOS:
 yum update
 yum install -y xz openssl gawk file
 ```
-2. Download script
+##2. Download script
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/leonguyen52/installNET/master/InstallNET.sh && chmod -x InstallNET.sh
 ```
-3. Install OS via script
+##3. Install OS via script
 
 a. Linux
 
