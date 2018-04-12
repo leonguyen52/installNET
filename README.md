@@ -28,7 +28,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/leonguyen52/instal
 ```
 ## 3. Install OS via script
 
-### a. Linux: Default password is "root123". Please change it after finishing installation.
+### a. Linux: Default password is "root1234". Please change it after finishing installation.
 
 Debian 7 x32:
 ```
