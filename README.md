@@ -4,9 +4,9 @@ This is tool to install Linux OS or Windows on linux server
 
 You take your own risk to use this tools
 
-It's not created by me, just reupload here.
+It's not created by me, just reupload here to save it for my personal use.
 
-Credit: zhujiwiki, moeclub, hostloc
+Credit: Vicer - moeclub
 
 # Instructions:
 
