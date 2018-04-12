@@ -7,20 +7,20 @@ Credit: zhujiwiki, moeclub, hostloc
 
 Instructions:
 1. Install required tools on:
-Debian/Ubuntu:
+a. Debian/Ubuntu:
 
 apt-get update
 
 apt-get install -y xz-utils openssl gawk file
 
-RedHat/CentOS:
+b. RedHat/CentOS:
 
 yum update
 
 yum install -y xz openssl gawk file
 
 2. Download script
-wget --no-check-certificate https://zhujiwiki.com/usr/uploads/2018/04/InstallNET.sh && chmod -x InstallNET.sh
+wget --no-check-certificate https://raw.githubusercontent.com/leonguyen52/installNET/master/InstallNET.sh && chmod -x InstallNET.sh
 
 3. Install OS via script
 
