@@ -12,11 +12,10 @@ Instructions:
 1. Install required tools on:
 
 a. Debian/Ubuntu:
-
+```
 apt-get update
-
 apt-get install -y xz-utils openssl gawk file
-
+```
 b. RedHat/CentOS:
 
 yum update
